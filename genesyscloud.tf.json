@@ -1,0 +1,10 @@
+{
+    "terraform": {
+      "required_providers": {
+        "genesyscloud": {
+          "source": "mypurecloud/genesyscloud",
+          "version": "0.14.0"
+        }
+      }
+    }
+  }
