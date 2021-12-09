@@ -1,8 +1,5 @@
 
 provider "genesyscloud" {
-  oauthclient_id = ""
-  oauthclient_secret = ""
-  aws_region = ""
   sdk_debug = true
 }
 
